@@ -1,0 +1,14 @@
+{
+  "name": "deleteTweets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetchTweets.js",
+  "type": "module",
+  "scripts": {
+    "start": "node fetchTweets.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "twitter-api-v2": "^1.20.2"
+  }
+}
